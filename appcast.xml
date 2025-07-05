@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Expense Tracker Updates</title>
+    <link>https://sp2781.github.io/ExpenseTrackerApp/</link>
+    <description>App update feed</description>
+    <language>en</language>
+    
+    <item>
+      <title>Version 3.3.3</title>
+      <pubDate>Fri, 05 Jul 2025 15:20:07 +0700</pubDate>
+      <enclosure url="https://sp2781.github.io/ExpenseTrackerApp/Expense%20Tracker-3.3.3.zip"
+                 sparkle:version="3.3.3"
+                 length="4045438"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
