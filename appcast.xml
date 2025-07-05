@@ -5,14 +5,14 @@
     <link>https://sp2781.github.io/ExpenseTrackerApp/</link>
     <description>App update feed</description>
     <language>en</language>
-    
+
     <item>
       <title>Version 3.3.4</title>
-      <sparkle:releaseNotesLink>https://sp2781.github.io/ExpenseTrackerApp/release-notes-3.3.4.html</sparkle:releaseNotesLink>
-      <pubDate>Sat, 05 Jul 2025 16:23:37 +0700</pubDate>
+      <pubDate>Sat, 05 Jul 2025 20:47:50 +0700</pubDate>
       <enclosure url="https://sp2781.github.io/ExpenseTrackerApp/Expense%20Tracker-3.3.4.zip"
-                 sparkle:version="3.3.4"
-                 length="5959132"
+                 sparkle:version="334"
+                 sparkle:shortVersionString="3.3.4"
+                 length="5798954"
                  type="application/octet-stream"/>
     </item>
   </channel>
