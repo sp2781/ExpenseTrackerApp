@@ -1,1 +1,1 @@
-# BudgetTrackingApp
+# ExpenseTrackerApp
