@@ -8,19 +8,15 @@
 
     <item>
       <title>Version 3.4.1</title>
-      <pubDate>Fri, 11 Jul 2025 22:17:24 +0700</pubDate>
+      <pubDate>Sat, 12 Jul 2025 18:25:45 +0700</pubDate>
       <enclosure url="https://sp2781.github.io/ExpenseTrackerApp/Expense%20Tracker-3.4.1.zip"
                  sparkle:version="3401"
                  sparkle:shortVersionString="3.4.1"
-                 sparkle:edSignature="CvPMXycDQ4wejFDEGcTHIezjOB3K38zYw3wvvv60RL0KqYPEW9u9aPHoidas9e2cOxvWErqEVuULHTFkNtVVBg=="
-                 length="8549328"
+                 sparkle:edSignature="fkyN50CWz7Tc4ypbWTiTXx66tnajJdjSDv7W7GClNcFv8wWEKaZj/9h/xJCquwiuB2t9uG3NglT0y39rY9o6Cg=="
+                 length="8592690"
                  type="application/octet-stream"/>
       <description><![CDATA[
-<ul>
-    <li>Deprecate Gmail and Google Sheets Views.</li>
-    <li>Minor UI tweaks.</li>
-    <li>Optimize performance.</li>
-</ul>
+Minor changes.
       ]]></description>
     </item>
   </channel>
