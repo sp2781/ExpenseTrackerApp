@@ -7,17 +7,17 @@
     <language>en</language>
 
     <item>
-      <title>Version 3.4.4</title>
-      <pubDate>Wed, 16 Jul 2025 13:43:24 +0700</pubDate>
-      <enclosure url="https://sp2781.github.io/ExpenseTrackerApp/Expense%20Tracker-3.4.4.zip"
-                 sparkle:version="3404"
-                 sparkle:shortVersionString="3.4.4"
-                 sparkle:edSignature="OsRn9YhBVGSDhCi2GXOcFKKI/Ud1No/aNkTH/7r1xY2qvjwmwjvvMJTjxNT21vrMtvvq9SaxKc4cS7PxRbL0BQ=="
-                 length="8599760"
+      <title>Version 3.4.5</title>
+      <pubDate>Thu, 17 Jul 2025 20:28:55 +0700</pubDate>
+      <enclosure url="https://sp2781.github.io/ExpenseTrackerApp/Expense%20Tracker-3.4.5.zip"
+                 sparkle:version="3405"
+                 sparkle:shortVersionString="3.4.5"
+                 sparkle:edSignature="YD/TMG9581EhM4Z+cEQeEq15nWQJT4BA8J5Fy10W6/dCRP9RaLWXuuOWyrfsoy8EEklNkqxizAXv4sRpjStzDw=="
+                 length="8607074"
                  type="application/octet-stream"/>
       <description><![CDATA[
 <ul>
-    <li>Be able to add or change budget.</li>
+    <li>Minor UI tweaks.</li>
     <li>Fix bugs.</li>
     <li>Optimize performance.</li>
 </ul>
